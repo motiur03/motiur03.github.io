@@ -30,5 +30,8 @@ There are two types of subscriptions: Monthly ($2.49/Month) and Yearly ($25.99/Y
 
 Subscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription.
 
+Contact Us
+
+If you have any questions or suggestions about this app, do not hesitate to contact me at smsoft2012@yahoo.com.
 
 Subscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.
